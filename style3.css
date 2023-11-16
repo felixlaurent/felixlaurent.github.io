@@ -543,7 +543,7 @@ body.modal_open{
     height:50%;
     display: flex;
     justify-content: center;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .detail_image img{
