@@ -72,11 +72,11 @@ footer{
 
 .landing_text h2{
     margin-top: 5%;
-    font-size: 32pt;
+    font-size: 28pt;
 }
 
 .landing_text h1{
-    font-size: 60pt;
+    font-size: 55pt;
     background: linear-gradient(90deg, #0B389D, #A1B3D7, #0B389D);
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -168,9 +168,9 @@ footer{
 }
 
 .wrapper .static_text{
-    font-size: 24pt;
+    font-size: 22pt;
     color: white;
-    margin-top: 3.5pt;
+    margin-top: 5pt;
 }
 
 .wrapper .dynamic_text{
@@ -183,7 +183,7 @@ footer{
 .dynamic_text li{
     list-style: none;
     color: white;
-    font-size: 24pt;
+    font-size: 22pt;
     position: relative;
     top: 0;
     animation: slide 6s steps(3) infinite;
@@ -203,7 +203,7 @@ footer{
     content: "";
     position:absolute;
     height: 100%;
-    padding-bottom: 2%;
+    padding-bottom: 3%;
     width:100%;
     border-left: 5px solid white;
     background: #010101;
