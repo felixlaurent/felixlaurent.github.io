@@ -549,7 +549,7 @@ body.modal_open{
 .modal{
     background-color: white;
     width: 82%;
-    max-height: 90%;
+    max-height: 80%;
     border-radius: 25px;
     justify-content: center;
     box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.3);
