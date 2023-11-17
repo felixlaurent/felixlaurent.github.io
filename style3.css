@@ -1,7 +1,12 @@
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('../assets/SF\ Pro\ Display\ Fonts/SFPRODISPLAYREGULAR') format('truetype');
+}
+
 *{
     margin: 0;
     padding: 0;
-    font-family: "SF Pro Display";
+    font-family: 'SF Pro Display', sans-serif;
 }
 
 html{
@@ -543,7 +548,7 @@ body.modal_open{
     height:50%;
     display: flex;
     justify-content: center;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 .detail_image img{
