@@ -14,9 +14,16 @@
 
 @font-face {
     font-family: 'SF Pro Display';
-    src: url('../assets/SF\ Pro\ Display\ Fonts/SFPRODISPLAYHEAVYITALIC') format('truetype');
+    src: url('../assets/SF\ Pro\ Display\ Fonts/SFPRODISPLAYBLACKITALIC') format('truetype');
     font-weight: bold;
     font-style: italic;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('../assets/SF\ Pro\ Display\ Fonts/SFPRODISPLAYMEDIUM') format('truetype');
+    font-weight: 500;
+    font-style: normal;
 }
 
 *{
