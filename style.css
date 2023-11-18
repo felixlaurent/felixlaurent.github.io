@@ -57,10 +57,10 @@ footer{
 
 .landing_page{
     width: 100%;
-    padding-top: 10%;
-    padding-bottom: 5%;
+    height: 100vh;
     background-color: #010101;
     display: flex;
+    align-items: center;
 }
 
 .landing_text{
@@ -219,8 +219,8 @@ footer{
 
 .about_me{
     width: 100%;
-    padding-top: 10%;
-    padding-bottom: 10%;
+    height: 100vh;
+    align-items: center;
     background-color: #010101;
     color: white;
     display: flex;
